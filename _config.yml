@@ -1,4 +1,4 @@
-theme: jekyll-theme-caymanwebrick:
+theme: jekyll-theme-cayman
 headers:
   X-Test: Test Test Test
 plugins:
