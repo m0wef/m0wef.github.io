@@ -1,3 +1,5 @@
 theme: jekyll-theme-caymanwebrick:
-  headers:
-    X-Test: Test Test Test
+headers:
+  X-Test: Test Test Test
+plugins:
+  - jekyll-sitemap
