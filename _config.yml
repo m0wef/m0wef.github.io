@@ -1,5 +1,3 @@
-theme: jekyll-theme-cayman
-headers:
-  X-Test: Test Test Test
-plugins:
-  - jekyll-sitemap
+#theme: jekyll-theme-cayman
+#plugins:
+#  - jekyll-sitemap
