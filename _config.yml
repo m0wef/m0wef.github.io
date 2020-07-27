@@ -4,3 +4,4 @@ headers:
   X-Test: Test Test Test
 plugins:
   - jekyll-sitemap
+permalink: pretty
